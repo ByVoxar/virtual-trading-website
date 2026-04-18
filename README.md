@@ -30,4 +30,4 @@ This project is intended to run in a local environment (localhost).
 A hosting service is required to deploy it online.
 
 ## 👨‍💻 Developer
-Ali DENİR
+Ali DEMİR
